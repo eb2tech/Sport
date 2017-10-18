@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+# VS Code
+.vs/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
